@@ -569,7 +569,7 @@ def menu():
         print("\nERROR: Invalid Selection..\n   \tEntering the main menu...")
         menu()
 ## Initiating the program
-print('\nPydbms Beta 4.0 \nAUTHOR: ARASHDEEP SINGH \nWELCOME, THIS IS A DBMS BASED ON PYTHON CONNECTOR \nREQUIREMENTS: MySQL INSTALLED ALONG WITH PYTHON CONNECTOR COMPONENTS \nFor any furthur query ,CONTACT: mangoshake5888@gmail.com  ')
+print('\nPydbms Beta 4.0 \nAUTHOR: RISHAV PRASAD \nWELCOME, THIS IS A DBMS BASED ON PYTHON CONNECTOR \nREQUIREMENTS: MySQL INSTALLED ALONG WITH PYTHON CONNECTOR COMPONENTS \nFor any furthur query ,CONTACT: rishav15045@gmail.com  ')
 
 try:
     menu()
